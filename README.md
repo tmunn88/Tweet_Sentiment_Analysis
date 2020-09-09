@@ -1,4 +1,6 @@
 # Tweet_Sentiment_Analysis
+# Sentiment Analysis Of Donald Trump's Tweets from 2019
+## Out-of-Core Learning Implementation
 
 Sentiment analysis uses natural language processing to analyze affective states and subjective information. In recent years considerable concern has arisen over the Sentiment analysis of a political issue.For example, Josemar A. Caetano uses sentiment analysis to define twitter political users’ classes and their homophily during the 2016 American presidential election. Also, Haselmayer use the sentiment analysis in political communication topic. A number of studies have been conducted on political issues in using Sentiment analysis.
 
