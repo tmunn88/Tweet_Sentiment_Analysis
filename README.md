@@ -1,4 +1,3 @@
-# Tweet_Sentiment_Analysis
 # Sentiment Analysis Of Donald Trump's Tweets from 2019
 ## Out-of-Core Learning Implementation
 
